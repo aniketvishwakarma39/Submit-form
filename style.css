@@ -1,0 +1,82 @@
+form{
+    display:flex;
+    flex-direction: column;
+}
+div{
+    height:350px;
+    width:350px;
+    background-color:linen;
+    border:2px solid black;
+    margin-top:120px;
+    margin-left:410px;
+    border-radius:35px;
+}
+
+body{background-image: url(new.jpg);
+     background-size:cover;
+}
+
+h3{
+
+    text-align:center;
+    color:black;
+
+}
+#name{
+    height:25px;
+    width:250px;
+    margin-left: 50px;
+    border-radius: 10px;
+    text-align:center;
+    border:1px solid black;
+    color:black;
+    
+}
+#email{
+    height:25px;
+    width:250px;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top:10px;
+    text-align:center;
+    border:1px solid black;
+    color:black;
+    
+
+}
+#phone{
+    height:25px;
+    width:250px;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top:10px;
+    text-align:center;
+    border:1px solid black;
+    color:black;
+
+}
+#message{
+    height:60px;
+    width:250px;
+    margin-left: 50px;
+    border-radius: 10px;
+    margin-top:10px;
+    text-align:center;
+    border:1px solid black;
+    color:black;
+    
+
+}
+button{
+    height:30px;
+    width:90px;
+    margin-left: 130px;
+    border-radius: 10px;
+    margin-top:20px;
+    text-align:center;
+    border:1px solid black;
+    justify-content: center;
+    color:white;
+    background-color:orange;
+
+}
